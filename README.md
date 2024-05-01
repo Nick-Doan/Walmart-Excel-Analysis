@@ -14,7 +14,7 @@ CPI and Weekly Sales,
 Temperature vs Weekly Sales,
 It also looks at the correlations in the data set
 
-Conclusion: Noticeable trends in the data were increased sales during Qtr 2(Apr, May, Jun) and Qtr 4(Oct, Nov, Dec). There was little to no correlation with the factors I examined Fuel Price vs Weekly Sales,
+Conclusion: Noticeable trends in the data were increased sales during Qtr 2(Apr, May, Jun) and Qtr 4(Oct, Nov, Dec). There was little to no correlation with the other variables I examined Fuel Price vs Weekly Sales,
 Unemployment and Sales,
 CPI and Weekly Sales, and
 Temperature vs Weekly Sales.
